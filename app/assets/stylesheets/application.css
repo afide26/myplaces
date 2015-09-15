@@ -16,7 +16,21 @@
  */
 
 .navbar-default{
-	background-color:#fff1d3;
+	background-color:#d9edf7;
+	border: 1px solid #bce8f1;
+	border-radius: 0;
+}
+
+.navbar-brand{
+	color: #00918b !important;
+	font-weight: 800;
+	font-size: 1.5em;
+}
+
+.navbar-nav a{
+	color: #00918b !important;
+	font-weight: 300;
+	font-size: 1.15em;
 }
 
 .active{
