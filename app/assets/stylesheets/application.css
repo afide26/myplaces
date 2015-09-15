@@ -14,3 +14,11 @@
  *= require_self
  *= require font-awesome
  */
+
+.navbar-default{
+	background-color:#fff1d3;
+}
+
+a{
+	color:blue;
+}
