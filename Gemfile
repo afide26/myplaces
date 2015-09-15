@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.2'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem "font-awesome-rails"
+gem 'gravatarify', '~> 3.0.0'
 gem "simple_form"
 gem 'devise'
 gem 'sqlite3'
